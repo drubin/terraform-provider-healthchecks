@@ -1,3 +1,8 @@
+/vendor
+/dist
+
+/terraform-provider-healthchecks
+
 #  Local .terraform directories
 **/.terraform/*
 
